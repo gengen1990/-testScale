@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
         });
         i=1;
         i=1;
+        i=1;
+        i=1;
         android.util.Log.i(TAG, "onCreate: "+i);
     }
 
