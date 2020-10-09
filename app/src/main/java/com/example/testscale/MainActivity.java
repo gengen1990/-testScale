@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        i=1;
+        i=1;
         android.util.Log.i(TAG, "onCreate: "+i);
     }
 
