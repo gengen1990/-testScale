@@ -1,6 +1,7 @@
 package com.example.testscale;
 
 import android.os.Bundle;
+import android.animation.Animator;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
